@@ -2,6 +2,96 @@
 
 A collection of projects and resources exploring the privacy landscape on Solana
 
+---
+
+## Here for Privacy Hack?
+
+[Privacy Hack](https://solana.com/privacyhack) is a hackathon focused on building privacy solutions on Solana. Below are the sponsors, bounties, and resources to help you get started.
+
+### Main Tracks
+
+| Track            | Prize   | Focus                                                                                     |
+| ---------------- | ------- | ----------------------------------------------------------------------------------------- |
+| Private Payments | $15,000 | Build innovative solutions for confidential or private transfers on Solana                |
+| Privacy Tooling  | $15,000 | Develop tools and infrastructure that make it easier for developers to build with privacy |
+| Open Track       | $18,000 | Build privacy applications on Solana (supported by Light Protocol)                        |
+
+### Sponsor Bounties
+
+#### Arcium - $10,000
+
+End-to-end private DeFi using Arcium and the C-SPL token standard. Build fully confidential swaps, lending, borrowing, and more.
+
+| Resources       | Link                                                                    |
+| --------------- | ----------------------------------------------------------------------- |
+| Website         | [arcium.com](https://arcium.com)                                        |
+| Docs            | [docs.arcium.com](https://docs.arcium.com/)                             |
+| Getting Started | [Arcium Quickstart](https://docs.arcium.com/developers/getting-started) |
+| Examples        | [Arcium Examples](https://github.com/arcium-hq/examples)                |
+
+#### Aztec (Noir) - $10,000
+
+Build ZK applications using Noir on Solana. Prizes: Best Overall ($5k), Best Non-Financial Use ($2.5k), Most Creative ($2.5k).
+
+| Resources               | Link                                                                                  |
+| ----------------------- | ------------------------------------------------------------------------------------- |
+| Noir Docs               | [noir-lang.org/docs](https://noir-lang.org/docs/)                                     |
+| Noir on Solana Examples | [solana-foundation/noir-examples](https://github.com/solana-foundation/noir-examples) |
+| Sunspot Verifier        | [reilabs/sunspot](https://github.com/reilabs/sunspot)                                 |
+
+#### Inco - $6,000
+
+Best confidential apps using Inco Lightning. Categories: DeFi ($2k), Consumer/Gaming/Prediction Markets ($2k), Payments ($2k).
+
+| Resources | Link                                                |
+| --------- | --------------------------------------------------- |
+| Docs      | [docs.inco.org/svm](https://docs.inco.org/svm/home) |
+| Website   | [inco.org](https://inco.org)                        |
+
+#### Helius - $5,000
+
+Best privacy project leveraging Helius RPCs and developer tooling.
+
+| Resources | Link                                          |
+| --------- | --------------------------------------------- |
+| Website   | [helius.dev](https://helius.dev)              |
+| Docs      | [docs.helius.dev](https://docs.helius.dev/)   |
+| GitHub    | [helius-labs](https://github.com/helius-labs) |
+
+#### Encrypt.trade - $1,000
+
+Educate users about privacy. Wallet Surveillance Education ($500), Jargon-Free Privacy Explanation ($500).
+
+| Resources | Link                                   |
+| --------- | -------------------------------------- |
+| Website   | [encrypt.trade](https://encrypt.trade) |
+
+#### Privacy Cash - $6,000
+
+Use Privacy Cash SDK to build privacy-enabled apps on Solana. Ideas include private lending, whale wallets, private bridging, games, and more. Grand Prize ($3k), Best Integration to Existing App ($1.5k), Honorable Mentions ($500 x 3).
+
+| Resources | Link                                                                      |
+| --------- | ------------------------------------------------------------------------- |
+| GitHub    | [Privacy-Cash/privacy-cash](https://github.com/Privacy-Cash/privacy-cash) |
+
+#### Range - $1,500
+
+Build compliant-privacy solutions using Range tools for pre-screening and selective disclosure to make private/confidential applications safe and compliant. All participating teams get free API credits for 2 months.
+
+| Resources | Link                               |
+| --------- | ---------------------------------- |
+| Website   | [range.org](https://www.range.org) |
+
+### Submission Requirements
+
+- Open source code mandatory
+- Integrate Solana with privacy-preserving technologies
+- Deploy to Solana devnet or mainnet
+- Include demo video (max 3 minutes)
+- Provide documentation for running/using your project
+
+---
+
 ## Projects
 
 - [Arcium](https://www.arcium.com/) - MPC network allowing for verifiable trustless computation

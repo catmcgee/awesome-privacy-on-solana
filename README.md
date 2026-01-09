@@ -109,6 +109,7 @@ Build compliant-privacy solutions using Range tools for pre-screening and select
 - [Solana mixer example](https://github.com/catmcgee/solana-mixer-circom) - simple demo-only mixer using Circom
 - [Confidential transfers guide](https://solana.com/docs/tokens/extensions/confidential-transfer) - learn how the confidential transfers token extension works
 - [Arcium docs](https://docs.arcium.com/) - MPC framework that feels similar to Anchor
+- [Private transactions on Solana with Arcium (for Anchor developers)](https://www.youtube.com/watch?v=X3Y6sL7A8O0) - an animated guide and video for experienced Anchor developers to create private transactions using Arcium. 
 
 ## Tooling
 

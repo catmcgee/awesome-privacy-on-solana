@@ -82,6 +82,17 @@ Build compliant-privacy solutions using Range tools for pre-screening and select
 | --------- | ---------------------------------- |
 | Website   | [range.org](https://www.range.org) |
 
+#### Radr Labs - $15,000
+
+Privacy-First DeFi on Solana. Transfer privately with ShadowWire. Swap across chains with ShadowSwap. Trade anonymously with ShadowTrade. All powered by zero-knowledge proofs.
+
+ Resources | Link                                          |
+| --------- | --------------------------------------------- |
+| Website   | [radr.fun](https://radr.fun)              |
+| Docs      | [Radr API](https://registry.scalar.com/@radr/apis/shadowpay-api#description/what-is-shadowpay)   |
+| GitHub    | [radrdotfun](https://github.com/radrdotfun) |
+| X         | [x.com/radrlabs](https://x.com/radrlabs) |
+
 ### Submission Requirements
 
 - Open source code mandatory

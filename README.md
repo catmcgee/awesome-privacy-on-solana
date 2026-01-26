@@ -48,16 +48,6 @@ Best confidential apps using Inco Lightning. Categories: DeFi ($2k), Consumer/Ga
 | Docs      | [docs.inco.org/svm](https://docs.inco.org/svm/home) |
 | Website   | [inco.org](https://inco.org)                        |
 
-#### Helius - $5,000
-
-Best privacy project leveraging Helius RPCs and developer tooling.
-
-| Resources | Link                                          |
-| --------- | --------------------------------------------- |
-| Website   | [helius.dev](https://helius.dev)              |
-| Docs      | [docs.helius.dev](https://docs.helius.dev/)   |
-| GitHub    | [helius-labs](https://github.com/helius-labs) |
-
 #### MagicBlock - $5,000
 
 Best privacy app leveraging on MagicBlock's Private Ephemeral Rollup.
@@ -67,6 +57,16 @@ Best privacy app leveraging on MagicBlock's Private Ephemeral Rollup.
 | Website   | [magicblock.xyz](https://magicblock.xyz)              |
 | Docs      | [docs.magicblock.gg](https://docs.magicblock.gg/)     |
 | GitHub    | [magicblock-labs](https://github.com/magicblock-labs) |
+
+#### Helius - $5,000
+
+Best privacy project leveraging Helius RPCs and developer tooling.
+
+| Resources | Link                                          |
+| --------- | --------------------------------------------- |
+| Website   | [helius.dev](https://helius.dev)              |
+| Docs      | [docs.helius.dev](https://docs.helius.dev/)   |
+| GitHub    | [helius-labs](https://github.com/helius-labs) |
 
 #### Encrypt.trade - $1,000
 

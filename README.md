@@ -52,11 +52,12 @@ Best confidential apps using Inco Lightning. Categories: DeFi ($2k), Consumer/Ga
 
 Best privacy app leveraging on MagicBlock's Private Ephemeral Rollup.
 
-| Resources | Link                                                  |
-| --------- | ----------------------------------------------------- |
-| Website   | [magicblock.xyz](https://magicblock.xyz)              |
-| Docs      | [docs.magicblock.gg](https://docs.magicblock.gg/)     |
-| GitHub    | [magicblock-labs](https://github.com/magicblock-labs) |
+| Resources | Link                                                                                                  |
+| --------- | ----------------------------------------------------------------------------------------------------- |
+| Website   | [magicblock.xyz](https://magicblock.xyz)                                                              |
+| Docs      | [docs.magicblock.gg](https://docs.magicblock.gg/)                                                     |
+| GitHub    | [magicblock-labs](https://github.com/magicblock-labs)                                                 |
+| Example   | [Quickstart](https://docs.magicblock.gg/pages/private-ephemeral-rollups-pers/how-to-guide/quickstart) |
 
 #### Helius - $5,000
 

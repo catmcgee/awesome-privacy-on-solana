@@ -48,6 +48,17 @@ Best confidential apps using Inco Lightning. Categories: DeFi ($2k), Consumer/Ga
 | Docs      | [docs.inco.org/svm](https://docs.inco.org/svm/home) |
 | Website   | [inco.org](https://inco.org)                        |
 
+#### MagicBlock - $5,000
+
+Best privacy app leveraging on MagicBlock's Private Ephemeral Rollup.
+
+| Resources | Link                                                                                                  |
+| --------- | ----------------------------------------------------------------------------------------------------- |
+| Website   | [magicblock.xyz](https://magicblock.xyz)                                                              |
+| Docs      | [docs.magicblock.gg](https://docs.magicblock.gg/)                                                     |
+| GitHub    | [magicblock-labs](https://github.com/magicblock-labs)                                                 |
+| Example   | [Quickstart](https://docs.magicblock.gg/pages/private-ephemeral-rollups-pers/how-to-guide/quickstart) |
+
 #### Helius - $5,000
 
 Best privacy project leveraging Helius RPCs and developer tooling.
@@ -86,12 +97,12 @@ Build compliant-privacy solutions using Range tools for pre-screening and select
 
 Privacy-First DeFi on Solana. Transfer privately with ShadowWire. Swap across chains with ShadowSwap. Trade anonymously with ShadowTrade. All powered by zero-knowledge proofs.
 
- Resources | Link                                          |
-| --------- | --------------------------------------------- |
-| Website   | [radr.fun](https://radr.fun)              |
-| Docs      | [Radr API](https://registry.scalar.com/@radr/apis/shadowpay-api#description/what-is-shadowpay)   |
-| GitHub    | [radrdotfun](https://github.com/radrdotfun) |
-| X         | [x.com/radrlabs](https://x.com/radrlabs) |
+| Resources | Link                                                                                           |
+| --------- | ---------------------------------------------------------------------------------------------- |
+| Website   | [radr.fun](https://radr.fun)                                                                   |
+| Docs      | [Radr API](https://registry.scalar.com/@radr/apis/shadowpay-api#description/what-is-shadowpay) |
+| GitHub    | [radrdotfun](https://github.com/radrdotfun)                                                    |
+| X         | [x.com/radrlabs](https://x.com/radrlabs)                                                       |
 
 ### Submission Requirements
 
@@ -120,7 +131,7 @@ Privacy-First DeFi on Solana. Transfer privately with ShadowWire. Swap across ch
 - [Solana mixer example](https://github.com/catmcgee/solana-mixer-circom) - simple demo-only mixer using Circom
 - [Confidential transfers guide](https://solana.com/docs/tokens/extensions/confidential-transfer) - learn how the confidential transfers token extension works
 - [Arcium docs](https://docs.arcium.com/) - MPC framework that feels similar to Anchor
-- [Private transactions on Solana with Arcium (for Anchor developers)](https://www.youtube.com/watch?v=X3Y6sL7A8O0) - an animated guide and video for experienced Anchor developers to create private transactions using Arcium. 
+- [Private transactions on Solana with Arcium (for Anchor developers)](https://www.youtube.com/watch?v=X3Y6sL7A8O0) - an animated guide and video for experienced Anchor developers to create private transactions using Arcium.
 
 ## Tooling
 

@@ -128,6 +128,8 @@ Privacy-First DeFi on Solana. Transfer privately with ShadowWire. Swap across ch
 ## Education Resources
 
 - [Noir examples](https://github.com/solana-foundation/noir-examples) - examples of Noir projects on Solana (unaudited, education only)
+- [Noir docs](https://noir-lang.org/docs/) - documentation of Noir the language
+- [Awesome Noir](https://github.com/noir-lang/awesome-noir/) - curated list of Noir projects and libraries
 - [Solana mixer example](https://github.com/catmcgee/solana-mixer-circom) - simple demo-only mixer using Circom
 - [Confidential transfers guide](https://solana.com/docs/tokens/extensions/confidential-transfer) - learn how the confidential transfers token extension works
 - [Arcium docs](https://docs.arcium.com/) - MPC framework that feels similar to Anchor

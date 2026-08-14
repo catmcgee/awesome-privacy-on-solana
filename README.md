@@ -5,6 +5,7 @@ A collection of projects and resources exploring the privacy landscape on Solana
 ---
 
 ## Here for Privacy Hack?
+- [n8n-solana-price-alert](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow that alerts on Telegram when a Solana token crosses a price threshold, no API key needed.
 
 [Privacy Hack](https://solana.com/privacyhack) is a hackathon focused on building privacy solutions on Solana. Below are the sponsors, bounties, and resources to help you get started.
 

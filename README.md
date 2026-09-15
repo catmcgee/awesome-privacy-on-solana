@@ -103,6 +103,7 @@ Privacy-First DeFi on Solana. Transfer privately with ShadowWire. Swap across ch
 | Docs      | [Radr API](https://registry.scalar.com/@radr/apis/shadowpay-api#description/what-is-shadowpay) |
 | GitHub    | [radrdotfun](https://github.com/radrdotfun)                                                    |
 | X         | [x.com/radrlabs](https://x.com/radrlabs)                                                       |
+- [HostDeFi](https://hostdefi.com) — free token-safety scanner grading tokens A+–F from on-chain checks (mint/freeze authority, liquidity, holder concentration) across Solana + 7 EVM chains. Keyless REST API, hosted MCP, x402 endpoints.
 
 ### Submission Requirements
 

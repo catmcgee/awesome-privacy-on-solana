@@ -139,6 +139,7 @@ Privacy-First DeFi on Solana. Transfer privately with ShadowWire. Swap across ch
 - [Light Protocol](https://github.com/Lightprotocol/light-protocol) - ZK compression for scalability + privacy
 - [groth16-solana](https://github.com/Lightprotocol/groth16-solana) - Groth16 verifier by Light Protocol
 - [Arcium SDK](https://docs.arcium.com/) - MPC development framework
+- [Duskmoth SDK](https://github.com/duskmoth-dev/duskmoth-sdk) - dependency-free JavaScript/TypeScript HTTP client for Duskmoth on Solana: Moth Pass issuance, privacy estimates and private-payroll authorization; no wallet signing or transaction broadcasting.
 
 ---
 

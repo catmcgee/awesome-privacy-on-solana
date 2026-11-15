@@ -122,6 +122,7 @@ Privacy-First DeFi on Solana. Transfer privately with ShadowWire. Swap across ch
 - [Umbra](https://umbra.cash/) - private transactions via shielded pools (built on Arcium)
 - [Hush](https://hush.so/) - privacy-first wallet stealth addresses
 - [MagicBlock](https://www.magicblock.gg/) - ephemeral rollups with TEEs
+- [CleanSlate](https://github.com/devshield-tech/botox-android) - Remotely wipe your Android device if it is lost or stolen.
 
 # Developers
 
